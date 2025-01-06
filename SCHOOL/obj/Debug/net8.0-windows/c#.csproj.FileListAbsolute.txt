@@ -1,0 +1,96 @@
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\c#.exe
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\c#.deps.json
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\c#.runtimeconfig.json
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\c#.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\c#.pdb
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.AssemblyReference.cache
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.AssemblyInfoInputs.cache
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.AssemblyInfo.cs
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.CoreCompileInputs.cache
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.sourcelink.json
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.Up2Date
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\refint\c#.dll
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.pdb
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\c#.genruntimeconfig.cache
+C:\Users\saad\Desktop\New folder\school\SCHOOL\obj\Debug\net8.0-windows\ref\c#.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.exe
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.deps.json
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.runtimeconfig.json
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.pdb
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.AssemblyReference.cache
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.AssemblyInfoInputs.cache
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.AssemblyInfo.cs
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.CoreCompileInputs.cache
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.sourcelink.json
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.Up2Date
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\refint\c#.dll
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.pdb
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.genruntimeconfig.cache
+C:\Users\saad\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\ref\c#.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.exe
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.deps.json
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.runtimeconfig.json
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\c#.pdb
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.AssemblyReference.cache
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.AssemblyInfoInputs.cache
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.AssemblyInfo.cs
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.CoreCompileInputs.cache
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.sourcelink.json
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.csproj.Up2Date
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\refint\c#.dll
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.pdb
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\c#.genruntimeconfig.cache
+C:\Users\saad\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\system_school_full\school\SCHOOL\obj\Debug\net8.0-windows\ref\c#.dll
